@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="176" PostSharpLinesOfCode="0" EnhancedTypesCount="3" SchemaVersion="1" PostSharpVersion="6.10.15.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[PostSharp]PostSharp.Serialization.PSerializableAttribute">
+    <Instance Declaration="#2=T:[Chapter11]Chapter11.AOP.PostSharp.AuthorizationAspect" Id="6d9958af91796d61">
+      <Target />
+    </Instance>
+    <Instance Declaration="#3=T:[Chapter11]Chapter11.AOP.PostSharp.LoggingAspect" Id="6d9958af9f7c1662">
+      <Target />
+    </Instance>
+  </Class>
+  <Class Class="#2">
+    <Instance Declaration="#4=M:[Chapter11]Chapter11.AOP.PostSharp.InMemoryOrderRepository::Add([Chapter11]Chapter11.Order)" Id="6d9958afce559e46">
+      <Target LinesAvoided="6">
+        <JoinPoint Description="#5=Wrapped by advice(s) OnEntry, OnException, OnExit" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#6=M:[Chapter11]Chapter11.AOP.PostSharp.InMemoryOrderRepository::Remove([Chapter11]Chapter11.Order)" Id="6d9958af1e6bcba2">
+      <Target LinesAvoided="6">
+        <JoinPoint Description="#5" Ordinal="3" />
+      </Target>
+    </Instance>
+  </Class>
+  <Class Class="#3">
+    <Instance Declaration="#4" Id="6d9958af31c5f5eb">
+      <Target LinesAvoided="6">
+        <JoinPoint Description="#5" Ordinal="0" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#6" Id="6d9958af21bddc90">
+      <Target LinesAvoided="6">
+        <JoinPoint Description="#5" Ordinal="2" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#7=M:[Chapter11]Chapter11.AOP.PostSharp.AuthorizationAspect::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#8=2" Description="#9=PostSharp estimates that 2 lines of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+  <Annotation Target="#10=M:[Chapter11]Chapter11.AOP.PostSharp.AuthorizationAspect::OnExit(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#8" Description="#9" />
+  <Annotation Target="#11=M:[Chapter11]Chapter11.AOP.PostSharp.AuthorizationAspect::OnException(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#8" Description="#9" />
+  <Annotation Target="#12=M:[Chapter11]Chapter11.AOP.PostSharp.LoggingAspect::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#8" Description="#9" />
+  <Annotation Target="#13=M:[Chapter11]Chapter11.AOP.PostSharp.LoggingAspect::OnExit(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#8" Description="#9" />
+  <Annotation Target="#14=M:[Chapter11]Chapter11.AOP.PostSharp.LoggingAspect::OnException(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#8" Description="#9" />
+</Symbols>

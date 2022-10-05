@@ -1,0 +1,15 @@
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\bin\Debug\Chapter11.exe
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\bin\Debug\Chapter11.pdb
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\obj\Debug\Chapter11.csproj.AssemblyReference.cache
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\obj\Debug\Chapter11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\obj\Debug\Chapter11.csproj.CoreCompileInputs.cache
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\obj\Debug\Chapter11.exe
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\obj\Debug\Chapter11.pdb
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\bin\Debug\Chapter11.pssym
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\bin\Debug\Chapter11.pspdb
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\bin\Debug\PostSharp.dll
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\bin\Debug\PostSharp.xml
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\obj\Debug\PostSharp\touch
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\obj\Debug\PostSharp\AdditionalBuildDependencies.txt
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\obj\Debug\Chapter11.csproj.CopyComplete
+C:\Users\Max.Cervantes\RiderProjects\Clean_code\Chapter11\obj\Debug\PostSharp\postsharp.app.config
